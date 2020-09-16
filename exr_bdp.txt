@@ -1,0 +1,116 @@
+Estados Unidos | USD | 1,1869
+Japão | JPY | 124,72
+Reino Unido | GBP | 0,91423
+Suíça | CHF | 1,0753
+Brasil | BRL | 6,2211
+Afeganistão | AFN | 91,544
+África do Sul | ZAR | 19,3726
+Angola | AOA | 711,2754
+Antilhas Holandesas | ANG | 2,1134
+Arábia Saudita | SAR | 4,478
+Argélia | DZD | 152,0499
+Argentina | ARS | 88,3823
+Austrália | AUD | 1,6174
+Bahamas | BSD | 1,1848
+Barém | BHD | 0,44921
+Bermudas | BMD | 1,194
+Bielorrússia | BYN | 3,1554
+Bolívia | BOB | 8,155
+Botsuana | BWP | 13,8515
+Brasil | BRL | 6,2211
+Bulgária | BGN | 1,9558
+Cabo Verde | CVE | 110,265
+Canadá | CAD | 1,5628
+Cazaquistão | KZT | 501,564
+Chile | CLP | 926,795
+China | CNY | 8,0229
+Colômbia | COP | 4465,21
+Comunidade Financeira dos Estados da África Central | XAF | 655,957
+Comunidade Financeira dos Estados da África do Oeste | XOF | 655,957
+Coreia Do Sul | KRW | 1390,72
+Costa Rica | CRC | 707,385
+Croácia | HRK | 7,5415
+Cuba | CUP | 1,194
+Dinamarca | DKK | 7,4396
+Egito | EGP | 18,8891
+El Salvador | SVC | 10,4469
+Emirados Árabes Unidos | AED | 4,3853
+Estados Unidos | USD | 1,1869
+Etiópia | ETB | 43,1694
+Euro | EUR | 1
+Filipinas | PHP | 57,398
+Gana | GHS | 6,8416
+Gibraltar | GIP | 0,89605
+Guatemala | GTQ | 9,2057
+Guiana | GYD | 246,788
+Haiti | HTG | 130,3335
+Honduras | HNL | 29,21
+Hong-Kong | HKD | 9,1985
+Hungria | HUF | 358,54
+Iémen | YER | 294,046
+Índia | INR | 87,2665
+Indonésia | IDR | 17607,66
+Irão | IRR | 50148
+Iraque | IQD | 1418,01828
+Islândia | ISK | 160,6
+Israel | ILS | 4,0589
+Jamaica | JMD | 176,6045
+Japão | JPY | 124,72
+Jordânia | JOD | 0,84535
+Koweit | KWD | 0,36428
+Líbano | LBP | 1797,81
+Libéria | LRD | 235,218
+Líbia | LYD | 1,61787
+Macau | MOP | 9,4745
+Madagáscar | MGA | 4546,75
+Malásia | MYR | 4,9025
+Malawi | MWK | 884,8853
+Marrocos | MAD | 10,9068
+Maurícia | MUR | 47,2824
+Mauritânia | MRU | 44,482
+México | MXN | 24,9614
+Moçambique | MZN | 84,48
+Myanmar | MMK | 1582,05
+Namíbia | NAD | 19,9589
+Nicarágua | NIO | 41,2049
+Nigéria | NGN | 454,5558
+Noruega | NOK | 10,6608
+Nova Zelândia | NZD | 1,7586
+Omã | OMR | 0,45967
+Panamá | PAB | 1,194
+Paquistão | PKR | 196,5205
+Paraguai | PYG | 8254,12
+Perú | PEN | 4,2289
+Polónia | PLN | 4,4466
+Qatar | QAR | 4,3462
+Quénia | KES | 129,0714
+Reino Unido | GBP | 0,91423
+República Checa | CZK | 26,726
+República Democrática do Congo | CDF | 2336,9207
+República Dominicana | DOP | 69,6699
+República da Guiné | GNF | 11463,59
+Roménia | RON | 4,859
+Rússia | RUB | 88,8038
+S. Tomé e Príncipe* | STN | 24,5
+Serra Leoa | SLL | 11584,2
+Sérvia | RSD | 117,5254
+Singapura | SGD | 1,611
+Síria | SYP | 1499,664
+Somália | SOS | 686,55
+Sri Lanka | LKR | 221,8452
+Suazilândia | SZL | 19,9589
+Sudão | SDG | 65,6702
+Suécia | SEK | 10,4118
+Suíça | CHF | 1,0753
+Suriname | SRD | 8,8714
+Tailândia | THB | 36,913
+Taiwan | TWD | 35,0618
+Tanzânia | TZS | 2764,11
+Trinidade e Tobago | TTD | 8,0338
+Tunísia | TND | 3,2406
+Turquia | TRY | 8,898
+Ucrânia | UAH | 32,8875
+Uganda | UGX | 4387,95
+Uruguai | UYU | 50,745
+Vietname | VND | 27669,76
+Zâmbia | ZMW | 23,2961
