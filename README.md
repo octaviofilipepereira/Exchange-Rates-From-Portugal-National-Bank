@@ -13,3 +13,8 @@ Instalation:
 
 Usage:
 1. Run the script by browser or by command line
+
+This package includes
+- bdp_exchange_rate.php (Get daily exchange rates from Portugal National Bank - v1.02)
+- simple_html_dom.php (Simple HTML DOM Parser - v1.9.1)
+- exr_bdp.txt (Sample output file)
